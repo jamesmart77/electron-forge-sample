@@ -65,6 +65,6 @@
     "@electron-forge/maker-squirrel": "6.0.0-beta.43",
     "@electron-forge/maker-zip": "6.0.0-beta.43",
     "appdmg": "^0.6.0",
-    "electron": "5.0.7"
+    "electron": "15.5.5"
   }
 }
